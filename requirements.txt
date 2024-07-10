@@ -1,0 +1,6 @@
+## requires python3.9!
+opencv-python # import cv2
+insightface   # from insightface.app import FaceAnalysis
+numpy         # import numpy as np
+onnxruntime   # support to insightface
+

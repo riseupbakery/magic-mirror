@@ -1,0 +1,5 @@
+# Ignore all .jpg files in the known_faces folder
+known_faces/*.jpg
+
+# Do not ignore Barack.jpg
+!known_faces/Barack.jpg
